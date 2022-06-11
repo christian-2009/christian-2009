@@ -22,7 +22,7 @@ Allowed users to login, post recommended resources, like, dislike and comment on
 <ul>
   <li><a href= 'https://github.com/christian-2009/Study-Resource-Catalog-App-Frontend'>Front-end Repo</a></li>
   <li><a href= 'https://github.com/christian-2009/Study-Resource-Catalog-App-Backend'>Back-end Repo</a></li>
-  <li><a href = 'academy-study-resources.netlify.app'>Deployed Wesbite</a></li>
+  <li><a href = 'https://academy-study-resources.netlify.app/'>Deployed Wesbite</a></li>
 </ul>
 
 <b>Front-end Consulting project</b> 🕴️<br/> 
