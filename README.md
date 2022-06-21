@@ -32,12 +32,19 @@ Took Dummy data about projects which involved clients and employees and displaye
   <b><a href='https://christian-consulting-project.netlify.app/'>Deployed Website</a></b>
 </ul>
 
-<b>Full Stack ToDo App</b> 📝<br/>
+<b>Full Stack Todo App</b> 📝<br/>
 Created a full stack todo app that allows the user to post todo, remove them and change them to grey when they are being completed.
   <ul>
   <b><a href= 'https://github.com/christian-2009/todo-app-frontend'>Front-end Repo</a></b><br/>
   <b><a href= 'https://github.com/christian-2009/todo-app-backend'>Back-end Repo</a></b><br/>
   <b><a href = 'https://christians-todo-app.netlify.app/'>Deployed Wesbite</a></b><br/>
+</ul>
+
+<b>Front-end Cat App</b> 🐱<br/> 
+Took data from 'thecatapi' to display a new cat when the new cat button is pressed. I also used the API to display the favourite cats when the favourite button is pressed. This project taught me about sending headers in API requests. Furthermore, I applied responsive web design techniques to this project.
+<ul>
+  <b><a href='https://github.com/christian-2009/cat-app'>Repo</a></b><br/>
+  <b><a href='https://christian-cat-app.netlify.app/'>Deployed Website</a></b>
 </ul>
 <!--
 **christian-2009/christian-2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
