@@ -11,7 +11,7 @@
 ### About Me 👨‍💻
 -I am a Maths and Economics graduate from the LSE.
 
--Now I am an aspiring developer who has recently finished a training programme at Academy.
+-Now I am a Software Engineer at Belong focused on React and Node.js.
 
 -Reach me on **<a style='color:black' href='https://www.linkedin.com/in/christian-sophocleous-bb4881200/'>LinkedIn</a>**.
 
